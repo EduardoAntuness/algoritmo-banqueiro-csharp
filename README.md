@@ -114,6 +114,3 @@ Eduardo Antunes
 
 ---
 
-## 📎 Repositório
-
-https://github.com/EduardoAntuness/algoritmo-banqueiro-csharp
